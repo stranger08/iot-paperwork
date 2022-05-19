@@ -135,8 +135,8 @@
           & \medskip \@author \hfill \@signatureplace \\
           & \smallskip Darbo vadovas: \\
           & \medskip \@supervisor \hfill  \@signatureplace \\
-          & \smallskip Recenzentas: \\
-          & \@reviewer \hfill  \@signatureplace
+          % & \smallskip Recenzentas: \\
+          % & \@reviewer \hfill  \@signatureplace
         \end{tabular} \par}%
      \end{flushright}
      \vskip 2.9cm
